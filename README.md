@@ -2,6 +2,14 @@
 
 ---
 
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
 ## What is this?
 
 This is the first in what I hope to be a series of free books and videos that provide both an alternative and a supplement for web development bootcamps. It is an alternative for people who are unable to attend bootcamps because of scheduling conflicts or lack of money. It supplements a bootcamp experience by exploring areas of web development in greater depth than can be reached in a single course.
