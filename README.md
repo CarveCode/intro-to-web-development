@@ -2,7 +2,6 @@
 
 ---
 
-Test
 
 ## What is this?
 
