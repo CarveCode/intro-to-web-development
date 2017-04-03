@@ -1,5 +1,3 @@
 {
-    "plugins": [
-        "mermaid-gb3"
-    ]
+    "plugins": []
 }
